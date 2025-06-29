@@ -50,7 +50,8 @@ Object foo(Object)
 ## Demo
 
 #### API test:
-- [Demo APIs on Youtube]((https://youtu.be/VLM60VusPl4))
+- [Demo APIs on Youtube (Teacher yillkid)](https://youtu.be/VLM60VusPl4)
+- [Demo LLMTwins & e2live on Youtube](https://youtu.be/83tZ6raLsSw)
 
 #### LLM Profile:
 - [Profile on GoogleSheet (Template)](https://docs.google.com/spreadsheets/d/1sIHUNWrziA82znQW9X6zuI9F163pS_XmqzejPyY-gg8/edit?usp=sharing)
@@ -62,3 +63,7 @@ Object foo(Object)
 * [Docker HUB](https://hub.docker.com/r/mason45ok/llmtwins/tags)
 * [LLMTwins](https://hub.docker.com/r/mason45ok/llmtwins)
 * [Line Webhook](https://hub.docker.com/r/mason45ok/llmtwins-line)
+
+## ICASI
+* The project was also submitted to the 2025 ICASI and was presented on April 23, 2025, at the Tokyo Conference Center.
+* [ICASI Video](https://youtu.be/vRFYBvC7cpA)
