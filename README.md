@@ -55,3 +55,8 @@ Object foo(Object)
 #### LLM Profile:
 - [Profile on GoogleSheet (Template)](https://docs.google.com/spreadsheets/d/1sIHUNWrziA82znQW9X6zuI9F163pS_XmqzejPyY-gg8/edit?usp=sharing)
 - [Profile on GoogleSheet](https://docs.google.com/spreadsheets/d/10QVQ7MH9GKMDQv6dEr_6qGA3LHYLyXOgWTvM6GKzuK4/edit?usp=sharing)
+
+#### 2025/06/29 Readme Update
+* Project Overview  
+  This project is developed based on the LLMTwins architecture. It enables controlling IoT devices through fuzzy semantic commands directed at ChatGPT-4o (the original project used GPT-3 as the model). By incorporating RAG and AI Agents, the system allows for more convenient and modular content management.
+
