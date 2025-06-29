@@ -64,6 +64,6 @@ Object foo(Object)
 * [LLMTwins](https://hub.docker.com/r/mason45ok/llmtwins)
 * [Line Webhook](https://hub.docker.com/r/mason45ok/llmtwins-line)
 
-## ICASI
+# ICASI 2025
 * The project was also submitted to the 2025 ICASI and was presented on April 23, 2025, at the Tokyo Conference Center.
 * [ICASI Video](https://youtu.be/vRFYBvC7cpA)
